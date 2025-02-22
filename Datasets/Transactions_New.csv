@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,ProductID,Quantity,TotalValue,ProductName,Category
+T00001,C0199,P067,1,300.68,ComfortLiving Bluetooth Speaker,Electronics
+T00112,C0146,P067,1,300.68,ComfortLiving Bluetooth Speaker,Electronics
+T00166,C0127,P067,1,300.68,ComfortLiving Bluetooth Speaker,Electronics
+T00272,C0087,P067,2,601.36,ComfortLiving Bluetooth Speaker,Electronics
+T00363,C0070,P067,3,902.04,ComfortLiving Bluetooth Speaker,Electronics
+T00442,C0188,P067,1,300.68,ComfortLiving Bluetooth Speaker,Electronics
+T00490,C0195,P067,3,902.04,ComfortLiving Bluetooth Speaker,Electronics
+T00536,C0008,P067,1,300.68,ComfortLiving Bluetooth Speaker,Electronics
+T00564,C0157,P067,3,902.04,ComfortLiving Bluetooth Speaker,Electronics
+T00631,C0130,P067,2,601.36,ComfortLiving Bluetooth Speaker,Electronics
+T00727,C0051,P067,3,902.04,ComfortLiving Bluetooth Speaker,Electronics
+T00729,C0075,P067,2,601.36,ComfortLiving Bluetooth Speaker,Electronics
+T00797,C0155,P067,2,601.36,ComfortLiving Bluetooth Speaker,Electronics
+T00002,C0092,P034,2,434.1,HomeSense T-Shirt,Clothing
+T00063,C0088,P034,2,434.1,HomeSense T-Shirt,Clothing
+T00093,C0109,P034,4,868.2,HomeSense T-Shirt,Clothing
+T00127,C0041,P034,4,868.2,HomeSense T-Shirt,Clothing
+T00270,C0101,P034,3,651.15,HomeSense T-Shirt,Clothing
+T00358,C0154,P034,1,217.05,HomeSense T-Shirt,Clothing
+T00518,C0200,P034,4,868.2,HomeSense T-Shirt,Clothing
+T00546,C0049,P034,1,217.05,HomeSense T-Shirt,Clothing
+T00982,C0103,P034,1,217.05,HomeSense T-Shirt,Clothing
+T00003,C0028,P057,4,958.8,ActiveWear Smartphone,Electronics
+T00013,C0183,P057,4,958.8,ActiveWear Smartphone,Electronics
+T00017,C0087,P057,4,958.8,ActiveWear Smartphone,Electronics
+T00046,C0190,P057,4,958.8,ActiveWear Smartphone,Electronics
+T00091,C0200,P057,1,239.7,ActiveWear Smartphone,Electronics
+T00161,C0055,P057,2,479.4,ActiveWear Smartphone,Electronics
+T00184,C0188,P057,2,479.4,ActiveWear Smartphone,Electronics
+T00218,C0148,P057,3,719.1,ActiveWear Smartphone,Electronics
+T00417,C0035,P057,3,719.1,ActiveWear Smartphone,Electronics
+T00492,C0120,P057,3,719.1,ActiveWear Smartphone,Electronics
+T00605,C0017,P057,4,958.8,ActiveWear Smartphone,Electronics
+T00615,C0145,P057,2,479.4,ActiveWear Smartphone,Electronics
+T00619,C0028,P057,2,479.4,ActiveWear Smartphone,Electronics
+T00703,C0092,P057,3,719.1,ActiveWear Smartphone,Electronics
+T00962,C0188,P057,2,479.4,ActiveWear Smartphone,Electronics
+T00004,C0004,P049,4,591.8,TechPro Textbook,Books
+T00105,C0087,P049,3,443.85,TechPro Textbook,Books
+T00136,C0010,P049,2,295.9,TechPro Textbook,Books
+T00237,C0065,P049,2,295.9,TechPro Textbook,Books
+T00239,C0132,P049,2,295.9,TechPro Textbook,Books
+T00310,C0068,P049,2,295.9,TechPro Textbook,Books
+T00470,C0123,P049,1,147.95,TechPro Textbook,Books
+T00551,C0018,P049,3,443.85,TechPro Textbook,Books
+T00563,C0064,P049,1,147.95,TechPro Textbook,Books
+T00567,C0121,P049,2,295.9,TechPro Textbook,Books
+T00620,C0041,P049,4,591.8,TechPro Textbook,Books
+T00650,C0070,P049,4,591.8,TechPro Textbook,Books
+T00818,C0161,P049,1,147.95,TechPro Textbook,Books
+T00923,C0173,P049,1,147.95,TechPro Textbook,Books
+T00970,C0132,P049,4,591.8,TechPro Textbook,Books
+T00005,C0150,P087,2,580.34,TechPro Running Shoes,Clothing
+T00037,C0176,P087,4,1160.68,TechPro Running Shoes,Clothing
+T00206,C0167,P087,2,580.34,TechPro Running Shoes,Clothing
+T00208,C0184,P087,1,290.17,TechPro Running Shoes,Clothing
+T00485,C0184,P087,1,290.17,TechPro Running Shoes,Clothing
+T00488,C0034,P087,2,580.34,TechPro Running Shoes,Clothing
+T00497,C0053,P087,4,1160.68,TechPro Running Shoes,Clothing
+T00684,C0102,P087,1,290.17,TechPro Running Shoes,Clothing
+T00846,C0134,P087,4,1160.68,TechPro Running Shoes,Clothing
+T00875,C0086,P087,2,580.34,TechPro Running Shoes,Clothing
+T00880,C0036,P087,3,870.51,TechPro Running Shoes,Clothing
+T00953,C0056,P087,2,580.34,TechPro Running Shoes,Clothing
+T00006,C0076,P053,3,824.82,TechPro Rug,Home Decor
+T00010,C0194,P053,1,274.94,TechPro Rug,Home Decor
+T00175,C0146,P053,3,824.82,TechPro Rug,Home Decor
+T00269,C0124,P053,4,1099.76,TechPro Rug,Home Decor
+T00293,C0053,P053,3,824.82,TechPro Rug,Home Decor
+T00568,C0065,P053,1,274.94,TechPro Rug,Home Decor
+T00602,C0024,P053,1,274.94,TechPro Rug,Home Decor
+T00744,C0004,P053,4,1099.76,TechPro Rug,Home Decor
+T00952,C0139,P053,1,274.94,TechPro Rug,Home Decor
+T00968,C0133,P053,4,1099.76,TechPro Rug,Home Decor
+T00007,C0173,P023,4,1818.12,ActiveWear Cookware Set,Home Decor
+T00089,C0076,P023,1,454.53,ActiveWear Cookware Set,Home Decor
+T00158,C0012,P023,2,909.06,ActiveWear Cookware Set,Home Decor
+T00349,C0184,P023,1,454.53,ActiveWear Cookware Set,Home Decor
+T00455,C0128,P023,1,454.53,ActiveWear Cookware Set,Home Decor
+T00501,C0158,P023,3,1363.59,ActiveWear Cookware Set,Home Decor
+T00721,C0012,P023,3,1363.59,ActiveWear Cookware Set,Home Decor
+T00749,C0133,P023,2,909.06,ActiveWear Cookware Set,Home Decor
+T00997,C0164,P023,4,1818.12,ActiveWear Cookware Set,Home Decor
+T00008,C0067,P069,1,100.81,BookWorld Biography,Books
+T00035,C0142,P069,2,201.62,BookWorld Biography,Books
+T00140,C0121,P069,2,201.62,BookWorld Biography,Books
+T00187,C0032,P069,1,100.81,BookWorld Biography,Books
+T00194,C0063,P069,1,100.81,BookWorld Biography,Books
+T00228,C0113,P069,2,201.62,BookWorld Biography,Books
+T00232,C0136,P069,3,302.43,BookWorld Biography,Books
+T00355,C0017,P069,2,201.62,BookWorld Biography,Books
+T00448,C0194,P069,2,201.62,BookWorld Biography,Books
+T00561,C0172,P069,1,100.81,BookWorld Biography,Books
+T00828,C0068,P069,4,403.24,BookWorld Biography,Books
+T00852,C0125,P069,3,302.43,BookWorld Biography,Books
+T00009,C0086,P095,4,909.04,BookWorld Cookware Set,Home Decor
+T00155,C0002,P095,2,454.52,BookWorld Cookware Set,Home Decor
+T00644,C0008,P095,1,227.26,BookWorld Cookware Set,Home Decor
+T00685,C0017,P095,2,454.52,BookWorld Cookware Set,Home Decor
+T00800,C0122,P095,3,681.78,BookWorld Cookware Set,Home Decor
+T00961,C0109,P095,3,681.78,BookWorld Cookware Set,Home Decor
+T00965,C0071,P095,4,909.04,BookWorld Cookware Set,Home Decor
+T00011,C0162,P062,1,374.16,HomeSense Novel,Books
+T00041,C0141,P062,4,1496.64,HomeSense Novel,Books
+T00146,C0155,P062,2,748.32,HomeSense Novel,Books
+T00190,C0156,P062,2,748.32,HomeSense Novel,Books
+T00221,C0188,P062,4,1496.64,HomeSense Novel,Books
+T00230,C0064,P062,1,374.16,HomeSense Novel,Books
+T00364,C0183,P062,2,748.32,HomeSense Novel,Books
+T00533,C0191,P062,4,1496.64,HomeSense Novel,Books
+T00570,C0147,P062,1,374.16,HomeSense Novel,Books
+T00640,C0087,P062,3,1122.48,HomeSense Novel,Books
+T00649,C0028,P062,3,1122.48,HomeSense Novel,Books
+T00664,C0138,P062,4,1496.64,HomeSense Novel,Books
+T00692,C0153,P062,2,748.32,HomeSense Novel,Books
+T00723,C0043,P062,2,748.32,HomeSense Novel,Books
+T00725,C0135,P062,2,748.32,HomeSense Novel,Books
+T00944,C0122,P062,2,748.32,HomeSense Novel,Books
+T00012,C0091,P041,4,1825.12,ComfortLiving Smartphone,Electronics
+T00034,C0168,P041,4,1825.12,ComfortLiving Smartphone,Electronics
+T00094,C0012,P041,4,1825.12,ComfortLiving Smartphone,Electronics
+T00231,C0069,P041,2,912.56,ComfortLiving Smartphone,Electronics
+T00236,C0184,P041,1,456.28,ComfortLiving Smartphone,Electronics
+T00261,C0125,P041,2,912.56,ComfortLiving Smartphone,Electronics
+T00343,C0173,P041,1,456.28,ComfortLiving Smartphone,Electronics
+T00482,C0066,P041,4,1825.12,ComfortLiving Smartphone,Electronics
+T00589,C0186,P041,1,456.28,ComfortLiving Smartphone,Electronics
+T00597,C0023,P041,3,1368.84,ComfortLiving Smartphone,Electronics
+T00881,C0101,P041,3,1368.84,ComfortLiving Smartphone,Electronics
+T00014,C0105,P060,1,155.65,HomeSense T-Shirt,Clothing
+T00392,C0072,P060,4,622.6,HomeSense T-Shirt,Clothing
+T00405,C0093,P060,2,311.3,HomeSense T-Shirt,Clothing
+T00452,C0009,P060,1,155.65,HomeSense T-Shirt,Clothing
+T00642,C0162,P060,4,622.6,HomeSense T-Shirt,Clothing
+T00768,C0083,P060,1,155.65,HomeSense T-Shirt,Clothing
+T00015,C0001,P054,2,114.6,SoundWave Cookbook,Books
+T00053,C0039,P054,3,171.9,SoundWave Cookbook,Books
+T00203,C0124,P054,4,229.2,SoundWave Cookbook,Books
+T00210,C0165,P054,2,114.6,SoundWave Cookbook,Books
+T00262,C0143,P054,1,57.3,SoundWave Cookbook,Books
+T00327,C0165,P054,2,114.6,SoundWave Cookbook,Books
+T00395,C0038,P054,3,171.9,SoundWave Cookbook,Books
+T00423,C0019,P054,3,171.9,SoundWave Cookbook,Books
+T00581,C0083,P054,2,114.6,SoundWave Cookbook,Books
+T00634,C0073,P054,4,229.2,SoundWave Cookbook,Books
+T00699,C0156,P054,3,171.9,SoundWave Cookbook,Books
+T00784,C0047,P054,3,171.9,SoundWave Cookbook,Books
+T00808,C0190,P054,4,229.2,SoundWave Cookbook,Books
+T00873,C0086,P054,4,229.2,SoundWave Cookbook,Books
+T00884,C0171,P054,3,171.9,SoundWave Cookbook,Books
+T00926,C0181,P054,3,171.9,SoundWave Cookbook,Books
+T00016,C0072,P070,2,97.38,HomeSense T-Shirt,Clothing
+T00087,C0108,P070,1,48.69,HomeSense T-Shirt,Clothing
+T00098,C0090,P070,3,146.07,HomeSense T-Shirt,Clothing
+T00281,C0126,P070,1,48.69,HomeSense T-Shirt,Clothing
+T00750,C0056,P070,4,194.76,HomeSense T-Shirt,Clothing
+T00762,C0106,P070,4,194.76,HomeSense T-Shirt,Clothing
+T00018,C0166,P010,3,1050.39,ComfortLiving Smartwatch,Electronics
+T00068,C0088,P010,3,1050.39,ComfortLiving Smartwatch,Electronics
+T00243,C0069,P010,2,700.26,ComfortLiving Smartwatch,Electronics
+T00276,C0113,P010,3,1050.39,ComfortLiving Smartwatch,Electronics
+T00292,C0086,P010,2,700.26,ComfortLiving Smartwatch,Electronics
+T00315,C0125,P010,3,1050.39,ComfortLiving Smartwatch,Electronics
+T00372,C0192,P010,1,350.13,ComfortLiving Smartwatch,Electronics
+T00516,C0074,P010,1,350.13,ComfortLiving Smartwatch,Electronics
+T00710,C0162,P010,1,350.13,ComfortLiving Smartwatch,Electronics
+T00830,C0048,P010,2,700.26,ComfortLiving Smartwatch,Electronics
+T00986,C0122,P010,2,700.26,ComfortLiving Smartwatch,Electronics
+T00019,C0006,P040,2,306.38,SoundWave Mystery Book,Books
+T00137,C0142,P040,4,612.76,SoundWave Mystery Book,Books
+T00347,C0139,P040,2,306.38,SoundWave Mystery Book,Books
+T00359,C0048,P040,4,612.76,SoundWave Mystery Book,Books
+T00406,C0171,P040,2,306.38,SoundWave Mystery Book,Books
+T00538,C0119,P040,2,306.38,SoundWave Mystery Book,Books
+T00637,C0184,P040,3,459.57,SoundWave Mystery Book,Books
+T00704,C0186,P040,4,612.76,SoundWave Mystery Book,Books
+T00910,C0071,P040,1,153.19,SoundWave Mystery Book,Books
+T00930,C0193,P040,2,306.38,SoundWave Mystery Book,Books
+T00936,C0148,P040,4,612.76,SoundWave Mystery Book,Books
+T00993,C0027,P040,2,306.38,SoundWave Mystery Book,Books
+T00995,C0191,P040,4,612.76,SoundWave Mystery Book,Books
+T00020,C0153,P007,4,1680.6,SoundWave Cookbook,Books
+T00163,C0101,P007,4,1680.6,SoundWave Cookbook,Books
+T00204,C0161,P007,2,840.3,SoundWave Cookbook,Books
+T00309,C0103,P007,2,840.3,SoundWave Cookbook,Books
+T00421,C0047,P007,1,420.15,SoundWave Cookbook,Books
+T00565,C0156,P007,2,840.3,SoundWave Cookbook,Books
+T00741,C0079,P007,2,840.3,SoundWave Cookbook,Books
+T00945,C0193,P007,3,1260.45,SoundWave Cookbook,Books
+T00021,C0145,P038,2,294.44,TechPro Vase,Home Decor
+T00032,C0109,P038,4,588.88,TechPro Vase,Home Decor
+T00251,C0004,P038,3,441.66,TechPro Vase,Home Decor
+T00323,C0082,P038,4,588.88,TechPro Vase,Home Decor
+T00374,C0181,P038,2,294.44,TechPro Vase,Home Decor
+T00432,C0065,P038,3,441.66,TechPro Vase,Home Decor
+T00434,C0025,P038,4,588.88,TechPro Vase,Home Decor
+T00726,C0111,P038,1,147.22,TechPro Vase,Home Decor
+T00728,C0160,P038,1,147.22,TechPro Vase,Home Decor
+T00785,C0159,P038,1,147.22,TechPro Vase,Home Decor
+T00814,C0093,P038,1,147.22,TechPro Vase,Home Decor
+T00863,C0008,P038,1,147.22,TechPro Vase,Home Decor
+T00913,C0117,P038,1,147.22,TechPro Vase,Home Decor
+T00022,C0061,P085,3,1249.05,BookWorld Biography,Books
+T00052,C0090,P085,3,1249.05,BookWorld Biography,Books
+T00330,C0028,P085,3,1249.05,BookWorld Biography,Books
+T00401,C0189,P085,3,1249.05,BookWorld Biography,Books
+T00435,C0037,P085,4,1665.4,BookWorld Biography,Books
+T00475,C0145,P085,2,832.7,BookWorld Biography,Books
+T00504,C0021,P085,1,416.35,BookWorld Biography,Books
+T00829,C0099,P085,4,1665.4,BookWorld Biography,Books
+T00023,C0012,P061,4,627.84,HomeSense Desk Lamp,Home Decor
+T00128,C0167,P061,3,470.88,HomeSense Desk Lamp,Home Decor
+T00361,C0052,P061,4,627.84,HomeSense Desk Lamp,Home Decor
+T00403,C0114,P061,4,627.84,HomeSense Desk Lamp,Home Decor
+T00422,C0163,P061,3,470.88,HomeSense Desk Lamp,Home Decor
+T00458,C0102,P061,1,156.96,HomeSense Desk Lamp,Home Decor
+T00476,C0119,P061,1,156.96,HomeSense Desk Lamp,Home Decor
+T00553,C0038,P061,1,156.96,HomeSense Desk Lamp,Home Decor
+T00655,C0182,P061,4,627.84,HomeSense Desk Lamp,Home Decor
+T00696,C0065,P061,3,470.88,HomeSense Desk Lamp,Home Decor
+T00731,C0200,P061,4,627.84,HomeSense Desk Lamp,Home Decor
+T00791,C0052,P061,2,313.92,HomeSense Desk Lamp,Home Decor
+T00795,C0178,P061,1,156.96,HomeSense Desk Lamp,Home Decor
+T00834,C0090,P061,3,470.88,HomeSense Desk Lamp,Home Decor
+T00840,C0018,P061,3,470.88,HomeSense Desk Lamp,Home Decor
+T00869,C0081,P061,2,313.92,HomeSense Desk Lamp,Home Decor
+T00024,C0006,P084,3,1013.73,ActiveWear Wall Art,Home Decor
+T00100,C0197,P084,3,1013.73,ActiveWear Wall Art,Home Decor
+T00202,C0100,P084,1,337.91,ActiveWear Wall Art,Home Decor
+T00235,C0116,P084,2,675.82,ActiveWear Wall Art,Home Decor
+T00265,C0122,P084,1,337.91,ActiveWear Wall Art,Home Decor
+T00346,C0149,P084,4,1351.64,ActiveWear Wall Art,Home Decor
+T00444,C0127,P084,1,337.91,ActiveWear Wall Art,Home Decor
+T00752,C0178,P084,4,1351.64,ActiveWear Wall Art,Home Decor
+T00753,C0075,P084,4,1351.64,ActiveWear Wall Art,Home Decor
+T00862,C0106,P084,2,675.82,ActiveWear Wall Art,Home Decor
+T00940,C0059,P084,4,1351.64,ActiveWear Wall Art,Home Decor
+T00958,C0026,P084,3,1013.73,ActiveWear Wall Art,Home Decor
+T00990,C0195,P084,2,675.82,ActiveWear Wall Art,Home Decor
+T00025,C0027,P003,4,176.48,ComfortLiving Biography,Books
+T00102,C0153,P003,2,88.24,ComfortLiving Biography,Books
+T00242,C0178,P003,1,44.12,ComfortLiving Biography,Books
+T00381,C0109,P003,4,176.48,ComfortLiving Biography,Books
+T00430,C0135,P003,2,88.24,ComfortLiving Biography,Books
+T00574,C0172,P003,1,44.12,ComfortLiving Biography,Books
+T00600,C0101,P003,3,132.36,ComfortLiving Biography,Books
+T00633,C0137,P003,3,132.36,ComfortLiving Biography,Books
+T00686,C0012,P003,4,176.48,ComfortLiving Biography,Books
+T00826,C0169,P003,2,88.24,ComfortLiving Biography,Books
+T00914,C0094,P003,2,88.24,ComfortLiving Biography,Books
+T00991,C0111,P003,3,132.36,ComfortLiving Biography,Books
+T00026,C0136,P051,3,195.48,ComfortLiving Desk Lamp,Home Decor
+T00044,C0046,P051,3,195.48,ComfortLiving Desk Lamp,Home Decor
+T00079,C0147,P051,1,65.16,ComfortLiving Desk Lamp,Home Decor
+T00169,C0152,P051,1,65.16,ComfortLiving Desk Lamp,Home Decor
+T00297,C0131,P051,3,195.48,ComfortLiving Desk Lamp,Home Decor
+T00386,C0116,P051,4,260.64,ComfortLiving Desk Lamp,Home Decor
+T00590,C0157,P051,2,130.32,ComfortLiving Desk Lamp,Home Decor
+T00607,C0175,P051,4,260.64,ComfortLiving Desk Lamp,Home Decor
+T00856,C0043,P051,2,130.32,ComfortLiving Desk Lamp,Home Decor
+T00957,C0076,P051,3,195.48,ComfortLiving Desk Lamp,Home Decor
+T00027,C0124,P086,2,881.4,SoundWave Novel,Books
+T00069,C0021,P086,4,1762.8,SoundWave Novel,Books
+T00193,C0041,P086,4,1762.8,SoundWave Novel,Books
+T00420,C0057,P086,4,1762.8,SoundWave Novel,Books
+T00493,C0126,P086,4,1762.8,SoundWave Novel,Books
+T00587,C0165,P086,4,1762.8,SoundWave Novel,Books
+T00691,C0171,P086,3,1322.1,SoundWave Novel,Books
+T00813,C0006,P086,3,1322.1,SoundWave Novel,Books
+T00896,C0093,P086,1,440.7,SoundWave Novel,Books
+T00028,C0106,P047,2,318.66,ComfortLiving Cookware Set,Home Decor
+T00047,C0136,P047,4,637.32,ComfortLiving Cookware Set,Home Decor
+T00107,C0175,P047,3,477.99,ComfortLiving Cookware Set,Home Decor
+T00197,C0075,P047,4,637.32,ComfortLiving Cookware Set,Home Decor
+T00352,C0046,P047,2,318.66,ComfortLiving Cookware Set,Home Decor
+T00443,C0128,P047,2,318.66,ComfortLiving Cookware Set,Home Decor
+T00524,C0014,P047,2,318.66,ComfortLiving Cookware Set,Home Decor
+T00531,C0022,P047,1,159.33,ComfortLiving Cookware Set,Home Decor
+T00539,C0159,P047,4,637.32,ComfortLiving Cookware Set,Home Decor
+T00897,C0195,P047,3,477.99,ComfortLiving Cookware Set,Home Decor
+T00029,C0193,P068,3,1341.69,TechPro Novel,Books
+T00071,C0059,P068,1,447.23,TechPro Novel,Books
+T00118,C0082,P068,3,1341.69,TechPro Novel,Books
+T00156,C0081,P068,1,447.23,TechPro Novel,Books
+T00199,C0160,P068,1,447.23,TechPro Novel,Books
+T00287,C0165,P068,4,1788.92,TechPro Novel,Books
+T00308,C0139,P068,2,894.46,TechPro Novel,Books
+T00425,C0008,P068,1,447.23,TechPro Novel,Books
+T00447,C0035,P068,3,1341.69,TechPro Novel,Books
+T00450,C0104,P068,1,447.23,TechPro Novel,Books
+T00833,C0187,P068,3,1341.69,TechPro Novel,Books
+T00030,C0185,P092,3,1167.6,BookWorld Running Shoes,Clothing
+T00340,C0098,P092,2,778.4,BookWorld Running Shoes,Clothing
+T00410,C0042,P092,4,1556.8,BookWorld Running Shoes,Clothing
+T00426,C0026,P092,1,389.2,BookWorld Running Shoes,Clothing
+T00439,C0141,P092,4,1556.8,BookWorld Running Shoes,Clothing
+T00618,C0103,P092,1,389.2,BookWorld Running Shoes,Clothing
+T00652,C0149,P092,4,1556.8,BookWorld Running Shoes,Clothing
+T00676,C0081,P092,4,1556.8,BookWorld Running Shoes,Clothing
+T00678,C0142,P092,3,1167.6,BookWorld Running Shoes,Clothing
+T00031,C0093,P076,3,1287.87,ActiveWear Jeans,Clothing
+T00106,C0158,P076,4,1717.16,ActiveWear Jeans,Clothing
+T00149,C0093,P076,4,1717.16,ActiveWear Jeans,Clothing
+T00240,C0113,P076,1,429.29,ActiveWear Jeans,Clothing
+T00487,C0159,P076,3,1287.87,ActiveWear Jeans,Clothing
+T00614,C0042,P076,1,429.29,ActiveWear Jeans,Clothing
+T00694,C0188,P076,4,1717.16,ActiveWear Jeans,Clothing
+T00709,C0175,P076,1,429.29,ActiveWear Jeans,Clothing
+T00754,C0143,P076,3,1287.87,ActiveWear Jeans,Clothing
+T00894,C0155,P076,2,858.58,ActiveWear Jeans,Clothing
+T00033,C0099,P036,2,745.1,BookWorld Jacket,Clothing
+T00080,C0139,P036,1,372.55,BookWorld Jacket,Clothing
+T00312,C0092,P036,1,372.55,BookWorld Jacket,Clothing
+T00316,C0141,P036,2,745.1,BookWorld Jacket,Clothing
+T00376,C0092,P036,4,1490.2,BookWorld Jacket,Clothing
+T00407,C0067,P036,1,372.55,BookWorld Jacket,Clothing
+T00469,C0083,P036,1,372.55,BookWorld Jacket,Clothing
+T00517,C0010,P036,3,1117.65,BookWorld Jacket,Clothing
+T00616,C0101,P036,2,745.1,BookWorld Jacket,Clothing
+T00659,C0013,P036,3,1117.65,BookWorld Jacket,Clothing
+T00690,C0029,P036,3,1117.65,BookWorld Jacket,Clothing
+T00925,C0093,P036,1,372.55,BookWorld Jacket,Clothing
+T00036,C0035,P013,1,114.2,BookWorld Smartwatch,Electronics
+T00097,C0045,P013,4,456.8,BookWorld Smartwatch,Electronics
+T00144,C0084,P013,1,114.2,BookWorld Smartwatch,Electronics
+T00201,C0118,P013,1,114.2,BookWorld Smartwatch,Electronics
+T00498,C0039,P013,1,114.2,BookWorld Smartwatch,Electronics
+T00544,C0075,P013,3,342.6,BookWorld Smartwatch,Electronics
+T00560,C0069,P013,3,342.6,BookWorld Smartwatch,Electronics
+T00697,C0084,P013,3,342.6,BookWorld Smartwatch,Electronics
+T00738,C0157,P013,3,342.6,BookWorld Smartwatch,Electronics
+T00803,C0197,P013,4,456.8,BookWorld Smartwatch,Electronics
+T00919,C0091,P013,3,342.6,BookWorld Smartwatch,Electronics
+T00038,C0084,P058,2,315.24,ActiveWear Textbook,Books
+T00124,C0076,P058,3,472.86,ActiveWear Textbook,Books
+T00227,C0049,P058,2,315.24,ActiveWear Textbook,Books
+T00365,C0102,P058,4,630.48,ActiveWear Textbook,Books
+T00404,C0022,P058,2,315.24,ActiveWear Textbook,Books
+T00416,C0152,P058,1,157.62,ActiveWear Textbook,Books
+T00471,C0102,P058,4,630.48,ActiveWear Textbook,Books
+T00566,C0139,P058,2,315.24,ActiveWear Textbook,Books
+T00662,C0118,P058,1,157.62,ActiveWear Textbook,Books
+T00667,C0047,P058,2,315.24,ActiveWear Textbook,Books
+T00681,C0153,P058,4,630.48,ActiveWear Textbook,Books
+T00824,C0156,P058,1,157.62,ActiveWear Textbook,Books
+T00981,C0112,P058,4,630.48,ActiveWear Textbook,Books
+T00039,C0056,P050,2,875.3,ActiveWear Smartwatch,Electronics
+T00191,C0172,P050,1,437.65,ActiveWear Smartwatch,Electronics
+T00328,C0085,P050,3,1312.95,ActiveWear Smartwatch,Electronics
+T00345,C0140,P050,4,1750.6,ActiveWear Smartwatch,Electronics
+T00362,C0096,P050,2,875.3,ActiveWear Smartwatch,Electronics
+T00542,C0098,P050,1,437.65,ActiveWear Smartwatch,Electronics
+T00718,C0007,P050,1,437.65,ActiveWear Smartwatch,Electronics
+T00770,C0181,P050,2,875.3,ActiveWear Smartwatch,Electronics
+T00859,C0162,P050,3,1312.95,ActiveWear Smartwatch,Electronics
+T00902,C0009,P050,1,437.65,ActiveWear Smartwatch,Electronics
+T00904,C0155,P050,1,437.65,ActiveWear Smartwatch,Electronics
+T00979,C0112,P050,3,1312.95,ActiveWear Smartwatch,Electronics
+T00984,C0156,P050,4,1750.6,ActiveWear Smartwatch,Electronics
+T00040,C0177,P030,4,1111.44,ActiveWear Cookbook,Books
+T00268,C0170,P030,1,277.86,ActiveWear Cookbook,Books
+T00303,C0085,P030,1,277.86,ActiveWear Cookbook,Books
+T00491,C0136,P030,4,1111.44,ActiveWear Cookbook,Books
+T00511,C0081,P030,3,833.58,ActiveWear Cookbook,Books
+T00604,C0011,P030,1,277.86,ActiveWear Cookbook,Books
+T00647,C0018,P030,4,1111.44,ActiveWear Cookbook,Books
+T00810,C0046,P030,1,277.86,ActiveWear Cookbook,Books
+T00938,C0087,P030,3,833.58,ActiveWear Cookbook,Books
+T00042,C0189,P025,2,569.24,ActiveWear Cookware Set,Home Decor
+T00074,C0041,P025,3,853.86,ActiveWear Cookware Set,Home Decor
+T00304,C0174,P025,1,284.62,ActiveWear Cookware Set,Home Decor
+T00331,C0005,P025,3,853.86,ActiveWear Cookware Set,Home Decor
+T00456,C0004,P025,2,569.24,ActiveWear Cookware Set,Home Decor
+T00462,C0003,P025,3,853.86,ActiveWear Cookware Set,Home Decor
+T00573,C0162,P025,3,853.86,ActiveWear Cookware Set,Home Decor
+T00580,C0141,P025,1,284.62,ActiveWear Cookware Set,Home Decor
+T00658,C0021,P025,1,284.62,ActiveWear Cookware Set,Home Decor
+T00832,C0064,P025,3,853.86,ActiveWear Cookware Set,Home Decor
+T00842,C0055,P025,4,1138.48,ActiveWear Cookware Set,Home Decor
+T00864,C0096,P025,4,1138.48,ActiveWear Cookware Set,Home Decor
+T00043,C0049,P027,4,916.24,SoundWave Headphones,Electronics
+T00141,C0039,P027,3,687.18,SoundWave Headphones,Electronics
+T00178,C0173,P027,2,458.12,SoundWave Headphones,Electronics
+T00275,C0018,P027,4,916.24,SoundWave Headphones,Electronics
+T00326,C0019,P027,3,687.18,SoundWave Headphones,Electronics
+T00337,C0064,P027,4,916.24,SoundWave Headphones,Electronics
+T00453,C0034,P027,4,916.24,SoundWave Headphones,Electronics
+T00739,C0098,P027,2,458.12,SoundWave Headphones,Electronics
+T00787,C0026,P027,4,916.24,SoundWave Headphones,Electronics
+T00871,C0084,P027,4,916.24,SoundWave Headphones,Electronics
+T00951,C0197,P027,2,458.12,SoundWave Headphones,Electronics
+T00045,C0113,P078,4,164.72,HomeSense Rug,Home Decor
+T00123,C0113,P078,2,82.36,HomeSense Rug,Home Decor
+T00164,C0062,P078,3,123.54,HomeSense Rug,Home Decor
+T00186,C0098,P078,1,41.18,HomeSense Rug,Home Decor
+T00431,C0067,P078,3,123.54,HomeSense Rug,Home Decor
+T00515,C0190,P078,1,41.18,HomeSense Rug,Home Decor
+T00522,C0160,P078,4,164.72,HomeSense Rug,Home Decor
+T00592,C0060,P078,2,82.36,HomeSense Rug,Home Decor
+T00635,C0166,P078,4,164.72,HomeSense Rug,Home Decor
+T00816,C0172,P078,2,82.36,HomeSense Rug,Home Decor
+T00048,C0043,P100,2,252.68,HomeSense Sweater,Clothing
+T00115,C0161,P100,1,126.34,HomeSense Sweater,Clothing
+T00283,C0109,P100,4,505.36,HomeSense Sweater,Clothing
+T00301,C0109,P100,2,252.68,HomeSense Sweater,Clothing
+T00740,C0156,P100,4,505.36,HomeSense Sweater,Clothing
+T00820,C0077,P100,2,252.68,HomeSense Sweater,Clothing
+T00049,C0148,P039,3,1291.77,TechPro Smartwatch,Electronics
+T00086,C0168,P039,3,1291.77,TechPro Smartwatch,Electronics
+T00090,C0072,P039,4,1722.36,TechPro Smartwatch,Electronics
+T00198,C0048,P039,1,430.59,TechPro Smartwatch,Electronics
+T00256,C0192,P039,3,1291.77,TechPro Smartwatch,Electronics
+T00348,C0005,P039,2,861.18,TechPro Smartwatch,Electronics
+T00391,C0096,P039,4,1722.36,TechPro Smartwatch,Electronics
+T00472,C0016,P039,1,430.59,TechPro Smartwatch,Electronics
+T00480,C0102,P039,3,1291.77,TechPro Smartwatch,Electronics
+T00523,C0114,P039,3,1291.77,TechPro Smartwatch,Electronics
+T00555,C0088,P039,1,430.59,TechPro Smartwatch,Electronics
+T00665,C0053,P039,4,1722.36,TechPro Smartwatch,Electronics
+T00050,C0124,P016,1,330.05,ActiveWear Running Shoes,Clothing
+T00056,C0192,P016,1,330.05,ActiveWear Running Shoes,Clothing
+T00167,C0153,P016,3,990.15,ActiveWear Running Shoes,Clothing
+T00368,C0190,P016,4,1320.2,ActiveWear Running Shoes,Clothing
+T00579,C0051,P016,1,330.05,ActiveWear Running Shoes,Clothing
+T00683,C0111,P016,4,1320.2,ActiveWear Running Shoes,Clothing
+T00700,C0016,P016,1,330.05,ActiveWear Running Shoes,Clothing
+T00802,C0046,P016,3,990.15,ActiveWear Running Shoes,Clothing
+T00942,C0105,P016,4,1320.2,ActiveWear Running Shoes,Clothing
+T00051,C0097,P022,1,137.54,HomeSense Wall Art,Home Decor
+T00160,C0065,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00252,C0154,P022,1,137.54,HomeSense Wall Art,Home Decor
+T00271,C0035,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00296,C0179,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00300,C0160,P022,4,550.16,HomeSense Wall Art,Home Decor
+T00414,C0194,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00481,C0188,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00509,C0025,P022,1,137.54,HomeSense Wall Art,Home Decor
+T00612,C0140,P022,1,137.54,HomeSense Wall Art,Home Decor
+T00742,C0124,P022,2,275.08,HomeSense Wall Art,Home Decor
+T00761,C0199,P022,4,550.16,HomeSense Wall Art,Home Decor
+T00886,C0104,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00895,C0121,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00932,C0001,P022,3,412.62,HomeSense Wall Art,Home Decor
+T00054,C0085,P021,3,1007.52,SoundWave Rug,Home Decor
+T00075,C0039,P021,3,1007.52,SoundWave Rug,Home Decor
+T00299,C0098,P021,1,335.84,SoundWave Rug,Home Decor
+T00440,C0136,P021,3,1007.52,SoundWave Rug,Home Decor
+T00457,C0158,P021,1,335.84,SoundWave Rug,Home Decor
+T00687,C0182,P021,4,1343.36,SoundWave Rug,Home Decor
+T00737,C0157,P021,1,335.84,SoundWave Rug,Home Decor
+T00763,C0185,P021,3,1007.52,SoundWave Rug,Home Decor
+T00807,C0086,P021,1,335.84,SoundWave Rug,Home Decor
+T00857,C0080,P021,3,1007.52,SoundWave Rug,Home Decor
+T00877,C0137,P021,2,671.68,SoundWave Rug,Home Decor
+T00055,C0177,P072,2,798.68,ActiveWear Headphones,Electronics
+T00162,C0045,P072,3,1198.02,ActiveWear Headphones,Electronics
+T00172,C0021,P072,2,798.68,ActiveWear Headphones,Electronics
+T00529,C0152,P072,3,1198.02,ActiveWear Headphones,Electronics
+T00929,C0068,P072,3,1198.02,ActiveWear Headphones,Electronics
+T00994,C0040,P072,2,798.68,ActiveWear Headphones,Electronics
+T00057,C0062,P059,3,909.6,SoundWave Jeans,Clothing
+T00062,C0009,P059,1,303.2,SoundWave Jeans,Clothing
+T00131,C0029,P059,1,303.2,SoundWave Jeans,Clothing
+T00188,C0195,P059,3,909.6,SoundWave Jeans,Clothing
+T00282,C0145,P059,1,303.2,SoundWave Jeans,Clothing
+T00284,C0022,P059,4,1212.8,SoundWave Jeans,Clothing
+T00295,C0087,P059,3,909.6,SoundWave Jeans,Clothing
+T00377,C0179,P059,1,303.2,SoundWave Jeans,Clothing
+T00400,C0175,P059,2,606.4,SoundWave Jeans,Clothing
+T00638,C0100,P059,3,909.6,SoundWave Jeans,Clothing
+T00674,C0024,P059,3,909.6,SoundWave Jeans,Clothing
+T00702,C0104,P059,4,1212.8,SoundWave Jeans,Clothing
+T00705,C0027,P059,4,1212.8,SoundWave Jeans,Clothing
+T00775,C0156,P059,1,303.2,SoundWave Jeans,Clothing
+T00806,C0062,P059,2,606.4,SoundWave Jeans,Clothing
+T00854,C0017,P059,1,303.2,SoundWave Jeans,Clothing
+T00882,C0156,P059,3,909.6,SoundWave Jeans,Clothing
+T00906,C0129,P059,4,1212.8,SoundWave Jeans,Clothing
+T00948,C0098,P059,2,606.4,SoundWave Jeans,Clothing
+T00058,C0106,P031,2,392.8,SoundWave Headphones,Electronics
+T00653,C0028,P031,4,785.6,SoundWave Headphones,Electronics
+T00792,C0105,P031,1,196.4,SoundWave Headphones,Electronics
+T00815,C0008,P031,2,392.8,SoundWave Headphones,Electronics
+T00059,C0107,P042,1,379.44,ActiveWear Headphones,Electronics
+T00344,C0047,P042,3,1138.32,ActiveWear Headphones,Electronics
+T00484,C0013,P042,2,758.88,ActiveWear Headphones,Electronics
+T00514,C0032,P042,1,379.44,ActiveWear Headphones,Electronics
+T00693,C0122,P042,4,1517.76,ActiveWear Headphones,Electronics
+T00695,C0090,P042,3,1138.32,ActiveWear Headphones,Electronics
+T00861,C0141,P042,4,1517.76,ActiveWear Headphones,Electronics
+T00973,C0084,P042,3,1138.32,ActiveWear Headphones,Electronics
+T00060,C0054,P074,4,1182.32,SoundWave Desk Lamp,Home Decor
+T00152,C0144,P074,4,1182.32,SoundWave Desk Lamp,Home Decor
+T00217,C0047,P074,1,295.58,SoundWave Desk Lamp,Home Decor
+T00223,C0163,P074,1,295.58,SoundWave Desk Lamp,Home Decor
+T00250,C0045,P074,4,1182.32,SoundWave Desk Lamp,Home Decor
+T00325,C0152,P074,1,295.58,SoundWave Desk Lamp,Home Decor
+T00382,C0163,P074,4,1182.32,SoundWave Desk Lamp,Home Decor
+T00438,C0037,P074,3,886.74,SoundWave Desk Lamp,Home Decor
+T00537,C0012,P074,1,295.58,SoundWave Desk Lamp,Home Decor
+T00743,C0172,P074,3,886.74,SoundWave Desk Lamp,Home Decor
+T00796,C0166,P074,3,886.74,SoundWave Desk Lamp,Home Decor
+T00839,C0089,P074,3,886.74,SoundWave Desk Lamp,Home Decor
+T00885,C0170,P074,3,886.74,SoundWave Desk Lamp,Home Decor
+T00061,C0126,P032,2,977.26,BookWorld Cookbook,Books
+T00116,C0127,P032,1,488.63,BookWorld Cookbook,Books
+T00319,C0139,P032,1,488.63,BookWorld Cookbook,Books
+T00320,C0179,P032,3,1465.89,BookWorld Cookbook,Books
+T00465,C0173,P032,2,977.26,BookWorld Cookbook,Books
+T00499,C0065,P032,4,1954.52,BookWorld Cookbook,Books
+T00513,C0023,P032,2,977.26,BookWorld Cookbook,Books
+T00577,C0082,P032,2,977.26,BookWorld Cookbook,Books
+T00821,C0050,P032,2,977.26,BookWorld Cookbook,Books
+T00867,C0171,P032,3,1465.89,BookWorld Cookbook,Books
+T00987,C0015,P032,1,488.63,BookWorld Cookbook,Books
+T00064,C0037,P009,1,325.01,BookWorld Wall Art,Home Decor
+T00311,C0129,P009,2,650.02,BookWorld Wall Art,Home Decor
+T00397,C0187,P009,1,325.01,BookWorld Wall Art,Home Decor
+T00477,C0162,P009,3,975.03,BookWorld Wall Art,Home Decor
+T00530,C0079,P009,2,650.02,BookWorld Wall Art,Home Decor
+T00651,C0172,P009,2,650.02,BookWorld Wall Art,Home Decor
+T00677,C0100,P009,4,1300.04,BookWorld Wall Art,Home Decor
+T00065,C0049,P081,1,66.32,HomeSense Sweater,Clothing
+T00081,C0077,P081,4,265.28,HomeSense Sweater,Clothing
+T00092,C0189,P081,3,198.96,HomeSense Sweater,Clothing
+T00103,C0091,P081,4,265.28,HomeSense Sweater,Clothing
+T00111,C0082,P081,4,265.28,HomeSense Sweater,Clothing
+T00387,C0173,P081,3,198.96,HomeSense Sweater,Clothing
+T00486,C0111,P081,4,265.28,HomeSense Sweater,Clothing
+T00512,C0183,P081,1,66.32,HomeSense Sweater,Clothing
+T00668,C0053,P081,2,132.64,HomeSense Sweater,Clothing
+T00715,C0033,P081,2,132.64,HomeSense Sweater,Clothing
+T00898,C0108,P081,1,66.32,HomeSense Sweater,Clothing
+T00939,C0010,P081,3,198.96,HomeSense Sweater,Clothing
+T00960,C0147,P081,1,66.32,HomeSense Sweater,Clothing
+T00066,C0041,P011,4,1044.8,SoundWave Desk Lamp,Home Decor
+T00415,C0169,P011,4,1044.8,SoundWave Desk Lamp,Home Decor
+T00521,C0148,P011,4,1044.8,SoundWave Desk Lamp,Home Decor
+T00601,C0161,P011,1,261.2,SoundWave Desk Lamp,Home Decor
+T00698,C0119,P011,1,261.2,SoundWave Desk Lamp,Home Decor
+T00712,C0134,P011,3,783.6,SoundWave Desk Lamp,Home Decor
+T00848,C0108,P011,2,522.4,SoundWave Desk Lamp,Home Decor
+T00868,C0039,P011,4,1044.8,SoundWave Desk Lamp,Home Decor
+T00977,C0136,P011,4,1044.8,SoundWave Desk Lamp,Home Decor
+T00998,C0024,P011,2,522.4,SoundWave Desk Lamp,Home Decor
+T00067,C0017,P096,2,614.94,SoundWave Headphones,Electronics
+T00085,C0001,P096,2,614.94,SoundWave Headphones,Electronics
+T00117,C0164,P096,2,614.94,SoundWave Headphones,Electronics
+T00279,C0059,P096,1,307.47,SoundWave Headphones,Electronics
+T00350,C0020,P096,3,922.41,SoundWave Headphones,Electronics
+T00467,C0045,P096,3,922.41,SoundWave Headphones,Electronics
+T00610,C0021,P096,2,614.94,SoundWave Headphones,Electronics
+T00645,C0007,P096,3,922.41,SoundWave Headphones,Electronics
+T00666,C0044,P096,1,307.47,SoundWave Headphones,Electronics
+T00724,C0117,P096,3,922.41,SoundWave Headphones,Electronics
+T00735,C0104,P096,4,1229.88,SoundWave Headphones,Electronics
+T00748,C0119,P096,1,307.47,SoundWave Headphones,Electronics
+T00764,C0026,P096,4,1229.88,SoundWave Headphones,Electronics
+T00794,C0161,P096,1,307.47,SoundWave Headphones,Electronics
+T00819,C0075,P096,2,614.94,SoundWave Headphones,Electronics
+T00070,C0051,P017,4,1879.08,ActiveWear Textbook,Books
+T00180,C0073,P017,2,939.54,ActiveWear Textbook,Books
+T00224,C0171,P017,4,1879.08,ActiveWear Textbook,Books
+T00324,C0104,P017,1,469.77,ActiveWear Textbook,Books
+T00341,C0011,P017,2,939.54,ActiveWear Textbook,Books
+T00503,C0013,P017,4,1879.08,ActiveWear Textbook,Books
+T00558,C0169,P017,4,1879.08,ActiveWear Textbook,Books
+T00571,C0137,P017,2,939.54,ActiveWear Textbook,Books
+T00682,C0131,P017,2,939.54,ActiveWear Textbook,Books
+T00971,C0023,P017,1,469.77,ActiveWear Textbook,Books
+T00072,C0167,P048,3,1249.2,TechPro Cookbook,Books
+T00280,C0175,P048,2,832.8,TechPro Cookbook,Books
+T00298,C0042,P048,1,416.4,TechPro Cookbook,Books
+T00322,C0099,P048,3,1249.2,TechPro Cookbook,Books
+T00357,C0147,P048,1,416.4,TechPro Cookbook,Books
+T00371,C0155,P048,4,1665.6,TechPro Cookbook,Books
+T00548,C0185,P048,3,1249.2,TechPro Cookbook,Books
+T00550,C0154,P048,3,1249.2,TechPro Cookbook,Books
+T00608,C0025,P048,2,832.8,TechPro Cookbook,Books
+T00657,C0100,P048,1,416.4,TechPro Cookbook,Books
+T00771,C0200,P048,4,1665.6,TechPro Cookbook,Books
+T00786,C0174,P048,4,1665.6,TechPro Cookbook,Books
+T00811,C0141,P048,4,1665.6,TechPro Cookbook,Books
+T00844,C0118,P048,4,1665.6,TechPro Cookbook,Books
+T00950,C0068,P048,4,1665.6,TechPro Cookbook,Books
+T00073,C0183,P052,2,709.62,SoundWave Jacket,Clothing
+T00101,C0008,P052,4,1419.24,SoundWave Jacket,Clothing
+T00351,C0169,P052,4,1419.24,SoundWave Jacket,Clothing
+T00460,C0099,P052,2,709.62,SoundWave Jacket,Clothing
+T00988,C0165,P052,4,1419.24,SoundWave Jacket,Clothing
+T00076,C0141,P065,3,1282.83,BookWorld Sweater,Clothing
+T00110,C0084,P065,2,855.22,BookWorld Sweater,Clothing
+T00139,C0118,P065,1,427.61,BookWorld Sweater,Clothing
+T00288,C0049,P065,1,427.61,BookWorld Sweater,Clothing
+T00306,C0021,P065,3,1282.83,BookWorld Sweater,Clothing
+T00383,C0048,P065,2,855.22,BookWorld Sweater,Clothing
+T00540,C0034,P065,2,855.22,BookWorld Sweater,Clothing
+T00569,C0107,P065,3,1282.83,BookWorld Sweater,Clothing
+T00585,C0056,P065,2,855.22,BookWorld Sweater,Clothing
+T00888,C0055,P065,2,855.22,BookWorld Sweater,Clothing
+T00892,C0022,P065,4,1710.44,BookWorld Sweater,Clothing
+T00077,C0192,P063,3,100.77,TechPro Novel,Books
+T00104,C0174,P063,3,100.77,TechPro Novel,Books
+T00216,C0193,P063,3,100.77,TechPro Novel,Books
+T00353,C0012,P063,1,33.59,TechPro Novel,Books
+T00378,C0175,P063,3,100.77,TechPro Novel,Books
+T00413,C0021,P063,3,100.77,TechPro Novel,Books
+T00459,C0075,P063,4,134.36,TechPro Novel,Books
+T00760,C0090,P063,1,33.59,TechPro Novel,Books
+T00853,C0098,P063,4,134.36,TechPro Novel,Books
+T00078,C0011,P089,3,662.73,HomeSense Bluetooth Speaker,Electronics
+T00153,C0094,P089,3,662.73,HomeSense Bluetooth Speaker,Electronics
+T00245,C0120,P089,4,883.64,HomeSense Bluetooth Speaker,Electronics
+T00291,C0109,P089,2,441.82,HomeSense Bluetooth Speaker,Electronics
+T00390,C0113,P089,4,883.64,HomeSense Bluetooth Speaker,Electronics
+T00773,C0068,P089,3,662.73,HomeSense Bluetooth Speaker,Electronics
+T00883,C0170,P089,4,883.64,HomeSense Bluetooth Speaker,Electronics
+T00082,C0127,P088,1,263.55,SoundWave Headphones,Electronics
+T00130,C0191,P088,1,263.55,SoundWave Headphones,Electronics
+T00424,C0114,P088,4,1054.2,SoundWave Headphones,Electronics
+T00461,C0072,P088,1,263.55,SoundWave Headphones,Electronics
+T00556,C0050,P088,3,790.65,SoundWave Headphones,Electronics
+T00751,C0096,P088,2,527.1,SoundWave Headphones,Electronics
+T00954,C0179,P088,4,1054.2,SoundWave Headphones,Electronics
+T00985,C0068,P088,2,527.1,SoundWave Headphones,Electronics
+T00083,C0046,P066,4,1348.88,SoundWave Textbook,Books
+T00195,C0023,P066,1,337.22,SoundWave Textbook,Books
+T00225,C0126,P066,3,1011.66,SoundWave Textbook,Books
+T00267,C0037,P066,3,1011.66,SoundWave Textbook,Books
+T00505,C0147,P066,2,674.44,SoundWave Textbook,Books
+T00596,C0175,P066,1,337.22,SoundWave Textbook,Books
+T00609,C0094,P066,1,337.22,SoundWave Textbook,Books
+T00623,C0146,P066,3,1011.66,SoundWave Textbook,Books
+T00838,C0101,P066,1,337.22,SoundWave Textbook,Books
+T00921,C0017,P066,4,1348.88,SoundWave Textbook,Books
+T00924,C0116,P066,1,337.22,SoundWave Textbook,Books
+T00084,C0045,P015,4,635.72,HomeSense Headphones,Electronics
+T00114,C0068,P015,1,158.93,HomeSense Headphones,Electronics
+T00333,C0101,P015,3,476.79,HomeSense Headphones,Electronics
+T00526,C0156,P015,4,635.72,HomeSense Headphones,Electronics
+T00599,C0013,P015,1,158.93,HomeSense Headphones,Electronics
+T00801,C0021,P015,1,158.93,HomeSense Headphones,Electronics
+T00893,C0101,P015,1,158.93,HomeSense Headphones,Electronics
+T00989,C0129,P015,3,476.79,HomeSense Headphones,Electronics
+T00088,C0019,P001,2,338.6,ActiveWear Biography,Books
+T00314,C0024,P001,4,677.2,ActiveWear Biography,Books
+T00428,C0071,P001,2,338.6,ActiveWear Biography,Books
+T00433,C0036,P001,2,338.6,ActiveWear Biography,Books
+T00449,C0191,P001,1,169.3,ActiveWear Biography,Books
+T00545,C0105,P001,2,338.6,ActiveWear Biography,Books
+T00732,C0045,P001,2,338.6,ActiveWear Biography,Books
+T00758,C0017,P001,3,507.9,ActiveWear Biography,Books
+T00095,C0189,P093,2,609.88,TechPro Vase,Home Decor
+T00211,C0007,P093,4,1219.76,TechPro Vase,Home Decor
+T00335,C0118,P093,2,609.88,TechPro Vase,Home Decor
+T00547,C0079,P093,4,1219.76,TechPro Vase,Home Decor
+T00586,C0179,P093,1,304.94,TechPro Vase,Home Decor
+T00629,C0100,P093,1,304.94,TechPro Vase,Home Decor
+T00630,C0031,P093,2,609.88,TechPro Vase,Home Decor
+T00899,C0141,P093,1,304.94,TechPro Vase,Home Decor
+T00096,C0161,P073,3,80.97,ComfortLiving Laptop,Electronics
+T00277,C0029,P073,4,107.96,ComfortLiving Laptop,Electronics
+T00317,C0111,P073,4,107.96,ComfortLiving Laptop,Electronics
+T00336,C0147,P073,3,80.97,ComfortLiving Laptop,Electronics
+T00388,C0081,P073,1,26.99,ComfortLiving Laptop,Electronics
+T00494,C0055,P073,2,53.98,ComfortLiving Laptop,Electronics
+T00519,C0054,P073,2,53.98,ComfortLiving Laptop,Electronics
+T00583,C0198,P073,1,26.99,ComfortLiving Laptop,Electronics
+T00661,C0049,P073,2,53.98,ComfortLiving Laptop,Electronics
+T00955,C0149,P073,2,53.98,ComfortLiving Laptop,Electronics
+T00099,C0103,P006,1,121.32,ActiveWear Rug,Home Decor
+T00134,C0051,P006,2,242.64,ActiveWear Rug,Home Decor
+T00143,C0003,P006,3,363.96,ActiveWear Rug,Home Decor
+T00181,C0181,P006,4,485.28,ActiveWear Rug,Home Decor
+T00226,C0139,P006,2,242.64,ActiveWear Rug,Home Decor
+T00273,C0134,P006,4,485.28,ActiveWear Rug,Home Decor
+T00321,C0017,P006,3,363.96,ActiveWear Rug,Home Decor
+T00389,C0081,P006,3,363.96,ActiveWear Rug,Home Decor
+T00478,C0124,P006,4,485.28,ActiveWear Rug,Home Decor
+T00506,C0053,P006,1,121.32,ActiveWear Rug,Home Decor
+T00613,C0037,P006,3,363.96,ActiveWear Rug,Home Decor
+T00679,C0138,P006,4,485.28,ActiveWear Rug,Home Decor
+T00772,C0104,P006,2,242.64,ActiveWear Rug,Home Decor
+T00108,C0177,P055,1,128.53,BookWorld Biography,Books
+T00255,C0107,P055,4,514.12,BookWorld Biography,Books
+T00429,C0030,P055,3,385.59,BookWorld Biography,Books
+T00463,C0142,P055,2,257.06,BookWorld Biography,Books
+T00466,C0034,P055,4,514.12,BookWorld Biography,Books
+T00639,C0109,P055,3,385.59,BookWorld Biography,Books
+T00822,C0011,P055,3,385.59,BookWorld Biography,Books
+T00850,C0029,P055,2,257.06,BookWorld Biography,Books
+T00872,C0088,P055,1,128.53,BookWorld Biography,Books
+T00941,C0041,P055,1,128.53,BookWorld Biography,Books
+T00109,C0175,P064,4,1809.68,HomeSense Running Shoes,Clothing
+T00145,C0198,P064,2,904.84,HomeSense Running Shoes,Clothing
+T00552,C0096,P064,4,1809.68,HomeSense Running Shoes,Clothing
+T00628,C0141,P064,1,452.42,HomeSense Running Shoes,Clothing
+T00636,C0054,P064,3,1357.26,HomeSense Running Shoes,Clothing
+T00671,C0013,P064,1,452.42,HomeSense Running Shoes,Clothing
+T00688,C0116,P064,1,452.42,HomeSense Running Shoes,Clothing
+T00889,C0200,P064,3,1357.26,HomeSense Running Shoes,Clothing
+T00972,C0106,P064,3,1357.26,HomeSense Running Shoes,Clothing
+T00999,C0024,P064,1,452.42,HomeSense Running Shoes,Clothing
+T00113,C0194,P090,1,165.3,ComfortLiving Biography,Books
+T00220,C0157,P090,1,165.3,ComfortLiving Biography,Books
+T00234,C0176,P090,4,661.2,ComfortLiving Biography,Books
+T00689,C0024,P090,2,330.6,ComfortLiving Biography,Books
+T00716,C0055,P090,2,330.6,ComfortLiving Biography,Books
+T00720,C0126,P090,1,165.3,ComfortLiving Biography,Books
+T00917,C0113,P090,2,330.6,ComfortLiving Biography,Books
+T00937,C0116,P090,1,165.3,ComfortLiving Biography,Books
+T00119,C0147,P018,1,436.89,ComfortLiving Mystery Book,Books
+T00411,C0064,P018,4,1747.56,ComfortLiving Mystery Book,Books
+T00507,C0019,P018,1,436.89,ComfortLiving Mystery Book,Books
+T00606,C0196,P018,3,1310.67,ComfortLiving Mystery Book,Books
+T00722,C0016,P018,4,1747.56,ComfortLiving Mystery Book,Books
+T00779,C0052,P018,3,1310.67,ComfortLiving Mystery Book,Books
+T00870,C0187,P018,4,1747.56,ComfortLiving Mystery Book,Books
+T00120,C0156,P083,1,455.72,ActiveWear Smartwatch,Electronics
+T00133,C0194,P083,3,1367.16,ActiveWear Smartwatch,Electronics
+T00138,C0051,P083,4,1822.88,ActiveWear Smartwatch,Electronics
+T00168,C0023,P083,3,1367.16,ActiveWear Smartwatch,Electronics
+T00289,C0141,P083,3,1367.16,ActiveWear Smartwatch,Electronics
+T00313,C0191,P083,1,455.72,ActiveWear Smartwatch,Electronics
+T00445,C0001,P083,2,911.44,ActiveWear Smartwatch,Electronics
+T00594,C0183,P083,3,1367.16,ActiveWear Smartwatch,Electronics
+T00632,C0016,P083,1,455.72,ActiveWear Smartwatch,Electronics
+T00670,C0046,P083,2,911.44,ActiveWear Smartwatch,Electronics
+T00831,C0184,P083,2,911.44,ActiveWear Smartwatch,Electronics
+T00845,C0154,P083,2,911.44,ActiveWear Smartwatch,Electronics
+T00887,C0066,P083,3,1367.16,ActiveWear Smartwatch,Electronics
+T00121,C0168,P043,4,1617.6,SoundWave Novel,Books
+T00151,C0131,P043,2,808.8,SoundWave Novel,Books
+T00254,C0174,P043,2,808.8,SoundWave Novel,Books
+T00342,C0054,P043,3,1213.2,SoundWave Novel,Books
+T00356,C0115,P043,4,1617.6,SoundWave Novel,Books
+T00572,C0155,P043,2,808.8,SoundWave Novel,Books
+T00790,C0084,P043,1,404.4,SoundWave Novel,Books
+T00837,C0139,P043,2,808.8,SoundWave Novel,Books
+T00841,C0019,P043,1,404.4,SoundWave Novel,Books
+T00907,C0160,P043,4,1617.6,SoundWave Novel,Books
+T00931,C0114,P043,4,1617.6,SoundWave Novel,Books
+T00122,C0084,P035,2,61.18,ActiveWear T-Shirt,Clothing
+T00246,C0088,P035,3,91.77,ActiveWear T-Shirt,Clothing
+T00329,C0008,P035,4,122.36,ActiveWear T-Shirt,Clothing
+T00446,C0164,P035,2,61.18,ActiveWear T-Shirt,Clothing
+T00479,C0144,P035,4,122.36,ActiveWear T-Shirt,Clothing
+T00765,C0025,P035,1,30.59,ActiveWear T-Shirt,Clothing
+T00799,C0061,P035,1,30.59,ActiveWear T-Shirt,Clothing
+T00804,C0134,P035,4,122.36,ActiveWear T-Shirt,Clothing
+T00812,C0003,P035,4,122.36,ActiveWear T-Shirt,Clothing
+T00956,C0099,P035,1,30.59,ActiveWear T-Shirt,Clothing
+T00125,C0122,P033,2,128.5,TechPro T-Shirt,Clothing
+T00189,C0195,P033,2,128.5,TechPro T-Shirt,Clothing
+T00200,C0057,P033,3,192.75,TechPro T-Shirt,Clothing
+T00366,C0075,P033,3,192.75,TechPro T-Shirt,Clothing
+T00510,C0031,P033,4,257.0,TechPro T-Shirt,Clothing
+T00532,C0030,P033,3,192.75,TechPro T-Shirt,Clothing
+T00755,C0032,P033,3,192.75,TechPro T-Shirt,Clothing
+T00905,C0034,P033,2,128.5,TechPro T-Shirt,Clothing
+T00126,C0143,P014,4,105.04,ActiveWear Jacket,Clothing
+T00207,C0034,P014,3,78.78,ActiveWear Jacket,Clothing
+T00865,C0094,P014,3,78.78,ActiveWear Jacket,Clothing
+T00901,C0010,P014,4,105.04,ActiveWear Jacket,Clothing
+T00129,C0002,P004,4,382.76,BookWorld Rug,Home Decor
+T00334,C0164,P004,1,95.69,BookWorld Rug,Home Decor
+T00419,C0030,P004,3,287.07,BookWorld Rug,Home Decor
+T00641,C0173,P004,3,287.07,BookWorld Rug,Home Decor
+T00747,C0137,P004,1,95.69,BookWorld Rug,Home Decor
+T00860,C0008,P004,2,191.38,BookWorld Rug,Home Decor
+T00891,C0091,P004,4,382.76,BookWorld Rug,Home Decor
+T00132,C0105,P029,4,1734.56,TechPro Headphones,Electronics
+T00213,C0165,P029,3,1300.92,TechPro Headphones,Electronics
+T00222,C0146,P029,1,433.64,TechPro Headphones,Electronics
+T00258,C0050,P029,3,1300.92,TechPro Headphones,Electronics
+T00286,C0069,P029,2,867.28,TechPro Headphones,Electronics
+T00436,C0001,P029,3,1300.92,TechPro Headphones,Electronics
+T00495,C0027,P029,2,867.28,TechPro Headphones,Electronics
+T00541,C0082,P029,2,867.28,TechPro Headphones,Electronics
+T00554,C0087,P029,4,1734.56,TechPro Headphones,Electronics
+T00576,C0100,P029,4,1734.56,TechPro Headphones,Electronics
+T00593,C0120,P029,2,867.28,TechPro Headphones,Electronics
+T00673,C0102,P029,3,1300.92,TechPro Headphones,Electronics
+T00680,C0163,P029,4,1734.56,TechPro Headphones,Electronics
+T00776,C0065,P029,4,1734.56,TechPro Headphones,Electronics
+T00835,C0190,P029,1,433.64,TechPro Headphones,Electronics
+T00935,C0109,P029,1,433.64,TechPro Headphones,Electronics
+T00975,C0116,P029,2,867.28,TechPro Headphones,Electronics
+T00135,C0075,P097,3,958.02,BookWorld Cookbook,Books
+T00173,C0182,P097,4,1277.36,BookWorld Cookbook,Books
+T00182,C0122,P097,3,958.02,BookWorld Cookbook,Books
+T00278,C0077,P097,1,319.34,BookWorld Cookbook,Books
+T00354,C0070,P097,4,1277.36,BookWorld Cookbook,Books
+T00394,C0063,P097,4,1277.36,BookWorld Cookbook,Books
+T00474,C0168,P097,1,319.34,BookWorld Cookbook,Books
+T00534,C0004,P097,3,958.02,BookWorld Cookbook,Books
+T00783,C0057,P097,2,638.68,BookWorld Cookbook,Books
+T00142,C0028,P080,4,1214.0,ActiveWear Jacket,Clothing
+T00150,C0166,P080,1,303.5,ActiveWear Jacket,Clothing
+T00171,C0028,P080,1,303.5,ActiveWear Jacket,Clothing
+T00247,C0187,P080,1,303.5,ActiveWear Jacket,Clothing
+T00473,C0066,P080,2,607.0,ActiveWear Jacket,Clothing
+T00489,C0039,P080,4,1214.0,ActiveWear Jacket,Clothing
+T00588,C0145,P080,2,607.0,ActiveWear Jacket,Clothing
+T00714,C0153,P080,2,607.0,ActiveWear Jacket,Clothing
+T00827,C0016,P080,3,910.5,ActiveWear Jacket,Clothing
+T00946,C0145,P080,4,1214.0,ActiveWear Jacket,Clothing
+T00147,C0117,P099,4,1417.16,SoundWave Mystery Book,Books
+T00266,C0125,P099,2,708.58,SoundWave Mystery Book,Books
+T00669,C0074,P099,4,1417.16,SoundWave Mystery Book,Books
+T00825,C0070,P099,1,354.29,SoundWave Mystery Book,Books
+T00148,C0002,P019,2,770.74,ComfortLiving Sweater,Clothing
+T00192,C0079,P019,4,1541.48,ComfortLiving Sweater,Clothing
+T00209,C0156,P019,3,1156.11,ComfortLiving Sweater,Clothing
+T00264,C0170,P019,4,1541.48,ComfortLiving Sweater,Clothing
+T00339,C0117,P019,4,1541.48,ComfortLiving Sweater,Clothing
+T00375,C0082,P019,4,1541.48,ComfortLiving Sweater,Clothing
+T00525,C0178,P019,3,1156.11,ComfortLiving Sweater,Clothing
+T00535,C0059,P019,4,1541.48,ComfortLiving Sweater,Clothing
+T00595,C0138,P019,4,1541.48,ComfortLiving Sweater,Clothing
+T00836,C0076,P019,1,385.37,ComfortLiving Sweater,Clothing
+T00976,C0109,P019,2,770.74,ComfortLiving Sweater,Clothing
+T00154,C0040,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00212,C0196,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00259,C0006,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00263,C0030,P020,1,396.34,ActiveWear Jacket,Clothing
+T00627,C0013,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00788,C0114,P020,3,1189.02,ActiveWear Jacket,Clothing
+T00843,C0102,P020,2,792.68,ActiveWear Jacket,Clothing
+T00903,C0182,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00911,C0067,P020,3,1189.02,ActiveWear Jacket,Clothing
+T00933,C0058,P020,1,396.34,ActiveWear Jacket,Clothing
+T00967,C0040,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00983,C0046,P020,4,1585.36,ActiveWear Jacket,Clothing
+T00157,C0169,P044,2,37.64,ActiveWear Running Shoes,Clothing
+T00672,C0165,P044,4,75.28,ActiveWear Running Shoes,Clothing
+T00711,C0165,P044,4,75.28,ActiveWear Running Shoes,Clothing
+T00878,C0165,P044,3,56.46,ActiveWear Running Shoes,Clothing
+T00159,C0163,P002,4,1385.2,ActiveWear Smartwatch,Electronics
+T00248,C0067,P002,4,1385.2,ActiveWear Smartwatch,Electronics
+T00285,C0068,P002,3,1038.9,ActiveWear Smartwatch,Electronics
+T00402,C0031,P002,2,692.6,ActiveWear Smartwatch,Electronics
+T00648,C0003,P002,4,1385.2,ActiveWear Smartwatch,Electronics
+T00706,C0181,P002,3,1038.9,ActiveWear Smartwatch,Electronics
+T00717,C0186,P002,2,692.6,ActiveWear Smartwatch,Electronics
+T00780,C0102,P002,3,1038.9,ActiveWear Smartwatch,Electronics
+T00165,C0049,P056,4,64.32,SoundWave Smartwatch,Electronics
+T00399,C0013,P056,3,48.24,SoundWave Smartwatch,Electronics
+T00454,C0174,P056,2,32.16,SoundWave Smartwatch,Electronics
+T00584,C0112,P056,1,16.08,SoundWave Smartwatch,Electronics
+T00774,C0095,P056,2,32.16,SoundWave Smartwatch,Electronics
+T00916,C0099,P056,4,64.32,SoundWave Smartwatch,Electronics
+T00949,C0169,P056,4,64.32,SoundWave Smartwatch,Electronics
+T00996,C0189,P056,1,16.08,SoundWave Smartwatch,Electronics
+T00170,C0038,P082,3,167.97,ComfortLiving Rug,Home Decor
+T00215,C0065,P082,3,167.97,ComfortLiving Rug,Home Decor
+T00233,C0162,P082,1,55.99,ComfortLiving Rug,Home Decor
+T00369,C0151,P082,4,223.96,ComfortLiving Rug,Home Decor
+T00373,C0179,P082,2,111.98,ComfortLiving Rug,Home Decor
+T00398,C0069,P082,1,55.99,ComfortLiving Rug,Home Decor
+T00622,C0047,P082,2,111.98,ComfortLiving Rug,Home Decor
+T00874,C0093,P082,3,167.97,ComfortLiving Rug,Home Decor
+T00174,C0107,P012,1,159.6,ComfortLiving Headphones,Electronics
+T00179,C0119,P012,1,159.6,ComfortLiving Headphones,Electronics
+T00451,C0023,P012,4,638.4,ComfortLiving Headphones,Electronics
+T00719,C0057,P012,1,159.6,ComfortLiving Headphones,Electronics
+T00789,C0005,P012,2,319.2,ComfortLiving Headphones,Electronics
+T00858,C0194,P012,1,159.6,ComfortLiving Headphones,Electronics
+T00909,C0093,P012,2,319.2,ComfortLiving Headphones,Electronics
+T00969,C0149,P012,3,478.8,ComfortLiving Headphones,Electronics
+T00176,C0164,P075,1,497.76,TechPro Textbook,Books
+T00360,C0108,P075,3,1493.28,TechPro Textbook,Books
+T00367,C0161,P075,2,995.52,TechPro Textbook,Books
+T00643,C0137,P075,3,1493.28,TechPro Textbook,Books
+T00782,C0188,P075,3,1493.28,TechPro Textbook,Books
+T00805,C0038,P075,3,1493.28,TechPro Textbook,Books
+T00809,C0078,P075,2,995.52,TechPro Textbook,Books
+T00866,C0065,P075,3,1493.28,TechPro Textbook,Books
+T00876,C0044,P075,2,995.52,TechPro Textbook,Books
+T00928,C0082,P075,4,1991.04,TechPro Textbook,Books
+T00177,C0099,P005,3,1287.93,TechPro T-Shirt,Clothing
+T00183,C0030,P005,3,1287.93,TechPro T-Shirt,Clothing
+T00437,C0143,P005,4,1717.24,TechPro T-Shirt,Clothing
+T00468,C0061,P005,2,858.62,TechPro T-Shirt,Clothing
+T00483,C0194,P005,3,1287.93,TechPro T-Shirt,Clothing
+T00767,C0045,P005,3,1287.93,TechPro T-Shirt,Clothing
+T00855,C0107,P005,3,1287.93,TechPro T-Shirt,Clothing
+T00879,C0074,P005,3,1287.93,TechPro T-Shirt,Clothing
+T00185,C0108,P028,4,942.32,HomeSense Desk Lamp,Home Decor
+T00229,C0038,P028,3,706.74,HomeSense Desk Lamp,Home Decor
+T00305,C0127,P028,4,942.32,HomeSense Desk Lamp,Home Decor
+T00332,C0145,P028,4,942.32,HomeSense Desk Lamp,Home Decor
+T00393,C0147,P028,3,706.74,HomeSense Desk Lamp,Home Decor
+T00520,C0052,P028,1,235.58,HomeSense Desk Lamp,Home Decor
+T00527,C0110,P028,4,942.32,HomeSense Desk Lamp,Home Decor
+T00582,C0177,P028,2,471.16,HomeSense Desk Lamp,Home Decor
+T00736,C0195,P028,4,942.32,HomeSense Desk Lamp,Home Decor
+T00756,C0028,P028,3,706.74,HomeSense Desk Lamp,Home Decor
+T00851,C0059,P028,3,706.74,HomeSense Desk Lamp,Home Decor
+T00915,C0163,P028,3,706.74,HomeSense Desk Lamp,Home Decor
+T00196,C0104,P094,2,894.68,HomeSense Cookware Set,Home Decor
+T00370,C0143,P094,3,1342.02,HomeSense Cookware Set,Home Decor
+T00508,C0057,P094,3,1342.02,HomeSense Cookware Set,Home Decor
+T00707,C0170,P094,3,1342.02,HomeSense Cookware Set,Home Decor
+T00708,C0187,P094,2,894.68,HomeSense Cookware Set,Home Decor
+T00730,C0008,P094,2,894.68,HomeSense Cookware Set,Home Decor
+T00733,C0059,P094,1,447.34,HomeSense Cookware Set,Home Decor
+T00912,C0148,P094,4,1789.36,HomeSense Cookware Set,Home Decor
+T00918,C0103,P094,2,894.68,HomeSense Cookware Set,Home Decor
+T00966,C0154,P094,2,894.68,HomeSense Cookware Set,Home Decor
+T00974,C0143,P094,3,1342.02,HomeSense Cookware Set,Home Decor
+T00205,C0152,P079,4,1669.48,ActiveWear Rug,Home Decor
+T00274,C0196,P079,1,417.37,ActiveWear Rug,Home Decor
+T00294,C0123,P079,3,1252.11,ActiveWear Rug,Home Decor
+T00409,C0138,P079,4,1669.48,ActiveWear Rug,Home Decor
+T00427,C0113,P079,4,1669.48,ActiveWear Rug,Home Decor
+T00575,C0196,P079,4,1669.48,ActiveWear Rug,Home Decor
+T00617,C0048,P079,3,1252.11,ActiveWear Rug,Home Decor
+T00626,C0199,P079,2,834.74,ActiveWear Rug,Home Decor
+T00656,C0065,P079,1,417.37,ActiveWear Rug,Home Decor
+T00713,C0135,P079,2,834.74,ActiveWear Rug,Home Decor
+T00745,C0090,P079,2,834.74,ActiveWear Rug,Home Decor
+T00746,C0104,P079,4,1669.48,ActiveWear Rug,Home Decor
+T00766,C0138,P079,1,417.37,ActiveWear Rug,Home Decor
+T00823,C0095,P079,3,1252.11,ActiveWear Rug,Home Decor
+T00908,C0089,P079,4,1669.48,ActiveWear Rug,Home Decor
+T00964,C0047,P079,1,417.37,ActiveWear Rug,Home Decor
+T00214,C0056,P024,2,677.32,SoundWave Cookbook,Books
+T00249,C0075,P024,3,1015.98,SoundWave Cookbook,Books
+T00528,C0053,P024,4,1354.64,SoundWave Cookbook,Books
+T00817,C0108,P024,2,677.32,SoundWave Cookbook,Books
+T00847,C0004,P024,1,338.66,SoundWave Cookbook,Books
+T00219,C0019,P008,1,146.85,BookWorld Bluetooth Speaker,Electronics
+T00385,C0072,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T00611,C0084,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T00660,C0057,P008,3,440.55,BookWorld Bluetooth Speaker,Electronics
+T00701,C0175,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T00757,C0022,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T00781,C0182,P008,1,146.85,BookWorld Bluetooth Speaker,Electronics
+T00934,C0154,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T00963,C0199,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T01000,C0004,P008,2,293.7,BookWorld Bluetooth Speaker,Electronics
+T00238,C0031,P091,2,445.9,HomeSense Rug,Home Decor
+T00257,C0051,P091,1,222.95,HomeSense Rug,Home Decor
+T00260,C0059,P091,4,891.8,HomeSense Rug,Home Decor
+T00384,C0073,P091,4,891.8,HomeSense Rug,Home Decor
+T00646,C0036,P091,3,668.85,HomeSense Rug,Home Decor
+T00793,C0054,P091,3,668.85,HomeSense Rug,Home Decor
+T00798,C0015,P091,3,668.85,HomeSense Rug,Home Decor
+T00241,C0109,P071,3,382.08,TechPro T-Shirt,Clothing
+T00441,C0133,P071,4,509.44,TechPro T-Shirt,Clothing
+T00559,C0134,P071,1,127.36,TechPro T-Shirt,Clothing
+T00591,C0161,P071,3,382.08,TechPro T-Shirt,Clothing
+T00675,C0002,P071,2,254.72,TechPro T-Shirt,Clothing
+T00777,C0049,P071,2,254.72,TechPro T-Shirt,Clothing
+T00890,C0176,P071,4,509.44,TechPro T-Shirt,Clothing
+T00980,C0147,P071,1,127.36,TechPro T-Shirt,Clothing
+T00244,C0158,P098,1,299.93,SoundWave Laptop,Electronics
+T00302,C0051,P098,1,299.93,SoundWave Laptop,Electronics
+T00412,C0126,P098,2,599.86,SoundWave Laptop,Electronics
+T00543,C0127,P098,3,899.79,SoundWave Laptop,Electronics
+T00654,C0054,P098,4,1199.72,SoundWave Laptop,Electronics
+T00849,C0115,P098,2,599.86,SoundWave Laptop,Electronics
+T00978,C0041,P098,3,899.79,SoundWave Laptop,Electronics
+T00253,C0155,P026,4,257.52,SoundWave Bluetooth Speaker,Electronics
+T00290,C0162,P026,4,257.52,SoundWave Bluetooth Speaker,Electronics
+T00338,C0091,P026,2,128.76,SoundWave Bluetooth Speaker,Electronics
+T00557,C0008,P026,2,128.76,SoundWave Bluetooth Speaker,Electronics
+T00562,C0121,P026,1,64.38,SoundWave Bluetooth Speaker,Electronics
+T00578,C0143,P026,3,193.14,SoundWave Bluetooth Speaker,Electronics
+T00927,C0091,P026,3,193.14,SoundWave Bluetooth Speaker,Electronics
+T00307,C0044,P045,4,1927.12,SoundWave T-Shirt,Clothing
+T00502,C0181,P045,1,481.78,SoundWave T-Shirt,Clothing
+T00598,C0149,P045,2,963.56,SoundWave T-Shirt,Clothing
+T00621,C0099,P045,2,963.56,SoundWave T-Shirt,Clothing
+T00625,C0124,P045,2,963.56,SoundWave T-Shirt,Clothing
+T00663,C0054,P045,3,1445.34,SoundWave T-Shirt,Clothing
+T00734,C0132,P045,2,963.56,SoundWave T-Shirt,Clothing
+T00947,C0022,P045,2,963.56,SoundWave T-Shirt,Clothing
+T00318,C0098,P046,1,366.07,BookWorld Sweater,Clothing
+T00380,C0135,P046,4,1464.28,BookWorld Sweater,Clothing
+T00464,C0188,P046,2,732.14,BookWorld Sweater,Clothing
+T00500,C0145,P046,3,1098.21,BookWorld Sweater,Clothing
+T00603,C0108,P046,3,1098.21,BookWorld Sweater,Clothing
+T00769,C0011,P046,4,1464.28,BookWorld Sweater,Clothing
+T00900,C0173,P046,4,1464.28,BookWorld Sweater,Clothing
+T00943,C0133,P046,1,366.07,BookWorld Sweater,Clothing
+T00379,C0004,P077,4,1062.04,ActiveWear Smartwatch,Electronics
+T00418,C0184,P077,2,531.02,ActiveWear Smartwatch,Electronics
+T00549,C0093,P077,2,531.02,ActiveWear Smartwatch,Electronics
+T00624,C0105,P077,4,1062.04,ActiveWear Smartwatch,Electronics
+T00778,C0175,P077,4,1062.04,ActiveWear Smartwatch,Electronics
+T00920,C0090,P077,1,265.51,ActiveWear Smartwatch,Electronics
+T00396,C0067,P037,2,919.72,SoundWave Smartwatch,Electronics
+T00408,C0054,P037,2,919.72,SoundWave Smartwatch,Electronics
+T00496,C0118,P037,1,459.86,SoundWave Smartwatch,Electronics
+T00759,C0059,P037,3,1379.58,SoundWave Smartwatch,Electronics
+T00922,C0018,P037,4,1839.44,SoundWave Smartwatch,Electronics
+T00959,C0115,P037,2,919.72,SoundWave Smartwatch,Electronics
+T00992,C0024,P037,1,459.86,SoundWave Smartwatch,Electronics
